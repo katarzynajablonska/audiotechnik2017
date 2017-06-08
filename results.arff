@@ -1,0 +1,9 @@
+% Attribution-Relation File automatically generated using MIRtoolbox1.6
+
+@RELATION MIRtoolbox1.6
+
+@ATTRIBUTE _Zero-crossingrate_Mean NUMERIC
+@ATTRIBUTE _RMSenergy_Mean NUMERIC
+
+@DATA
+1.041573e+03 3.351225e-02 
